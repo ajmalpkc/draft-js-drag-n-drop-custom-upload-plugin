@@ -7,7 +7,7 @@ This plugin adds dropping & uploading files functionality to your editor with up
 Usage:
 
 ```js
-import createDragNDropUploadPlugin from '@ajmalpkc/draft-js-drag-n-drop-upload-plugin';
+import createDragNDropUploadPlugin from '@ajmalpkc/draft-js-drag-n-drop-custom-upload-plugin';
 
 import upload from './upload';
 ...
